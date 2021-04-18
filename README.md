@@ -23,4 +23,4 @@ URLSpoof es una herramienta desarrollada para acortar URL(s) y agregar palabras 
 * $ urlspoof
 # Creado por Darkmux
 # ©WHITE HACKS
-* https://t.me/whitehacks_bot
+https://t.me/whitehacks_bot
